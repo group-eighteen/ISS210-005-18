@@ -10,3 +10,4 @@ https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washp
 https://www.tandfonline.com/doi/full/10.1080/19338341.2020.1759118 -Mackenzie Kaminski
 https://images.app.goo.gl/fiPLshFnyXTcYwZQ7 - Najah Elbast
 https://www.bloomberg.com/news/features/2021-12-21/real-estate-agents-want-to-fix-housing-discrimination-but-keep-their-commission - Najah Elbast
+https://projects.fivethirtyeight.com/redlining/ - Kylee Beninati
