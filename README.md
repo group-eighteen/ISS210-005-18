@@ -8,3 +8,4 @@ https://cdn.vox-cdn.com/uploads/chorus_asset/file/6591941/2.png -Austin Collacot
 https://static01.nyt.com/images/2021/08/22/upshot/25up-redliningbk/25up-redliningbk-superJumbo.jpg?quality=75&auto=webp -Austin Collacott
 https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FSDDP7PPIZDSZLUYXRSVVKAKYA.jpg&w=1450 -Brennan Feldpausch
 https://www.tandfonline.com/doi/full/10.1080/19338341.2020.1759118 -Mackenzie Kaminski
+https://images.app.goo.gl/fiPLshFnyXTcYwZQ7 - Najah Elbast
